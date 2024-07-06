@@ -1,3 +1,3 @@
-# rl-language-packs
-A Repository to keep track of different translations for RLCraft.  
+# RL-Language packs
+A template Resourcepack for RLCraft translators.  
 This template contains lang files and lang keys (English) for all texts displayed in RLCraft.
