@@ -1,0 +1,4 @@
+key.pickup.item=Pickup item
+
+# From Localizator
+notif.itemphysic.throw_power=Throwing Power: %s

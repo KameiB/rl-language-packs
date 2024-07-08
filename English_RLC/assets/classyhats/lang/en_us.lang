@@ -1,0 +1,562 @@
+tab.classyhats.name=Classy Hats
+
+hat.classyhats.missingno.name=Broken Hat
+hat.classyhats.missingno.desc0=Oh no! Something went wrong!
+hat.classyhats.missingno.desc1=The server might have different configs...
+hat.classyhats.missingno.desc2=This might be from an old version...
+hat.classyhats.missingno.desc3=Or this was just created manually.
+
+hat.classyhats.top_hat.name=Top Hat
+hat.classyhats.top_hat.desc=For black tie parties.
+
+hat.classyhats.shleep_0.name=Red Shleep
+hat.classyhats.shleep_0.desc=A little friend for your head.
+hat.classyhats.shleep_1.name=Orange Shleep
+hat.classyhats.shleep_1.desc=A little friend for your head.
+hat.classyhats.shleep_2.name=Yellow Shleep
+hat.classyhats.shleep_2.desc=A little friend for your head.
+hat.classyhats.shleep_3.name=Green Shleep
+hat.classyhats.shleep_3.desc=A little friend for your head.
+hat.classyhats.shleep_4.name=Cyan Shleep
+hat.classyhats.shleep_4.desc=A little friend for your head.
+hat.classyhats.shleep_5.name=Blue Shleep
+hat.classyhats.shleep_5.desc=A little friend for your head.
+hat.classyhats.shleep_6.name=Violet Shleep
+hat.classyhats.shleep_6.desc=A little friend for your head.
+hat.classyhats.shleep_7.name=Pink Shleep
+hat.classyhats.shleep_7.desc=A little friend for your head.
+
+hat.classyhats.top_slime_0.name=Red Top Slime
+hat.classyhats.top_slime_0.desc=Even companions need to look classy!
+hat.classyhats.top_slime_1.name=Orange Top Slime
+hat.classyhats.top_slime_1.desc=Even companions need to look classy!
+hat.classyhats.top_slime_2.name=Yellow Top Slime
+hat.classyhats.top_slime_2.desc=Even companions need to look classy!
+hat.classyhats.top_slime_3.name=Green Top Slime
+hat.classyhats.top_slime_3.desc=Even companions need to look classy!
+hat.classyhats.top_slime_4.name=Cyan Top Slime
+hat.classyhats.top_slime_4.desc=Even companions need to look classy!
+hat.classyhats.top_slime_5.name=Blue Top Slime
+hat.classyhats.top_slime_5.desc=Even companions need to look classy!
+hat.classyhats.top_slime_6.name=Violet Top Slime
+hat.classyhats.top_slime_6.desc=Even companions need to look classy!
+hat.classyhats.top_slime_7.name=Pink Top Slime
+hat.classyhats.top_slime_7.desc=Even companions need to look classy!
+
+hat.classyhats.headtato.name=Tiny Headtato
+hat.classyhats.headtato.desc=It believes in you!
+
+hat.classyhats.japanese_headband.name=Japanese Headband
+hat.classyhats.japanese_headband.desc=キミは可愛いです
+
+hat.classyhats.menacing.name=Menacing
+hat.classyhats.menacing.desc=ＴＨＩＳ ＭＵＳＴ ＢＥ ＴＨＥ ＷＯＲＫ ＯＦ ＡＮ ＥＮＥＭＹ 「ＳＴＡＮＤ」！！
+
+hat.classyhats.thinking.name=:thonk:
+hat.classyhats.thinking.desc=Sponsored by /r/hmmm
+
+hat.classyhats.cat_ears_black.name=Black Cat Ears
+hat.classyhats.cat_ears_black.desc=+5 to Persuasion, +5 to Nya
+hat.classyhats.cat_ears_brown.name=Brown Cat Ears
+hat.classyhats.cat_ears_brown.desc=+5 to Persuasion, +5 to Nya
+hat.classyhats.cat_ears_dark_brown.name=Dark Brown Cat Ears
+hat.classyhats.cat_ears_dark_brown.desc=+5 to Persuasion, +5 to Nya
+hat.classyhats.cat_ears_grey.name=Gray Cat Ears
+hat.classyhats.cat_ears_grey.desc=+5 to Persuasion, +5 to Nya
+hat.classyhats.cat_ears_white.name=White Cat Ears
+hat.classyhats.cat_ears_white.desc=+5 to Persuasion, +5 to Nya
+
+hat.classyhats.classy_gear.name=Classy Gear
+hat.classyhats.classy_gear.desc=I do say, my good sir!
+
+hat.classyhats.mask_happy.name=Smiling Drama Mask
+hat.classyhats.mask_happy.desc=The show must go on!
+hat.classyhats.mask_neutral.name=Neutral Drama Mask
+hat.classyhats.mask_neutral.desc=The show must go on!
+hat.classyhats.mask_sad.name=Downcast Drama Mask
+hat.classyhats.mask_sad.desc=The show must go on!
+hat.classyhats.mask_uwot.name=Angry Drama Mask
+hat.classyhats.mask_uwot.desc=The show must go on!
+
+hat.classyhats.monocle.name=Monocle
+hat.classyhats.monocle.desc=For external use only.
+
+hat.classyhats.skull.name=Skull Mask
+hat.classyhats.skull.desc=Alas, poor Yorick!
+
+hat.classyhats.skull_shattered.name=Shattered Skull Mask
+hat.classyhats.skull_shattered.desc=Alas, poor Yorick!
+
+hat.classyhats.halo.name=Halo
+hat.classyhats.halo.desc0=An angel is anything but innocent.
+hat.classyhats.halo.desc1=Do not mistake optimism for oblivion.
+
+hat.classyhats.snowball.name=Snowball
+hat.classyhats.snowball.desc=Freeze! Don't move!
+
+hat.classyhats.snowball_golden.name=Golden Snowball
+hat.classyhats.snowball_golden.desc0=SR can buy you happiness.
+hat.classyhats.snowball_golden.desc1=Just buy one of these.
+
+hat.classyhats.pachimari.name=Pachimari
+hat.classyhats.pachimari.desc=Half onion, half octopus, all cute.
+
+hat.classyhats.pachimari_sombra.name=Hacked Pachimari
+hat.classyhats.pachimari_sombra.desc=Boop!
+
+hat.classyhats.moon_man.name=Moon Man
+hat.classyhats.moon_man.desc=Goodbye, moonmen...
+
+hat.classyhats.top_kek.name=Top Kek
+hat.classyhats.top_kek.desc=forty keks
+
+hat.classyhats.eye.name=The Horned Eye
+hat.classyhats.eye.desc0=The Eye of Ea stands at the gate
+hat.classyhats.eye.desc1=It shatters the limits your mind can create
+hat.classyhats.eye.desc2=It sees the blight and it knows your soul
+hat.classyhats.eye.desc3=And toward the center it bids you go
+
+hat.classyhats.artificial_intelligence.name=Artificial Intelligence
+hat.classyhats.artificial_intelligence.desc=01101110 01100101 01100001 01110100
+
+hat.classyhats.companion_cube.name=Companion Cube
+hat.classyhats.companion_cube.desc=Science!
+
+hat.classyhats.cube_companion.name=Cube Companion
+hat.classyhats.cube_companion.desc=We &omight've&7 gone a bit far.
+
+hat.classyhats.head_hiss.name=Head Hiss
+hat.classyhats.head_hiss.desc=With 80%% less gunpowder.
+
+hat.classyhats.jar_head.name=Jarhead
+hat.classyhats.jar_head.desc=Now they can all see how small your brain is.
+
+hat.classyhats.miracle_seer.name=Miracle Seer
+hat.classyhats.miracle_seer.desc0=Memorate miraculos absentes.
+hat.classyhats.miracle_seer.desc1=Semper vivunt ea in nostri animis.
+
+hat.classyhats.warped.name=Warped
+hat.classyhats.warped.desc=Oh god, they're real, they're comi
+
+hat.classyhats.dungeon_companion.name=Dungeon Companion
+hat.classyhats.dungeon_companion.desc0=Why was a swet stuck in a chest
+hat.classyhats.dungeon_companion.desc1=in the middle of a Slider dungeon...?
+
+hat.classyhats.retro_computer.name=Retro Computer
+hat.classyhats.retro_computer.desc=Dapper in the 90s
+
+hat.classyhats.bone_hurting_juice.name=Bone Hurting Juice
+hat.classyhats.bone_hurting_juice.desc=Oof, owie
+
+item.classyhats.phantom_thread.name=Phantom Thread
+item.classyhats.phantom_thread.desc0=Craft with armor to make it invisible!
+item.classyhats.phantom_thread.desc1=Craft invisible armor with other armor to camouflage.
+item.classyhats.phantom_thread.desc2=Craft with thread again to make the armor visible.
+
+tile.classyhats.hat_stand_oak.name=Oak Wood Hat Stand
+tile.classyhats.hat_stand_spruce.name=Spruce Wood Hat Stand
+tile.classyhats.hat_stand_birch.name=Birch Wood Hat Stand
+tile.classyhats.hat_stand_jungle.name=Jungle Wood Hat Stand
+tile.classyhats.hat_stand_acacia.name=Acacia Wood Hat Stand
+tile.classyhats.hat_stand_dark_oak.name=Dark Oak Wood Hat Stand
+tile.classyhats.hat_stand_stone.name=Stone Hat Stand
+tile.classyhats.hat_stand_quartz.name=Quartz Hat Stand
+tile.classyhats.hat_stand_obsidian.name=Obsidian Hat Stand
+
+tooltip.classyhats.phantom=&bLined with Phantom Thread
+tooltip.classyhats.phantom.desc=Craft with other armor to camouflage!
+tooltip.classyhats.phantom.camo=Camouflaged as:
+
+tooltip.classyhats.hat_inventory=Press &6%s&7 to open the Hat Inventory
+tooltip.classyhats.hat_inventory_sneak=Sneak-using this item will do the same
+
+container.classyhats.hat_bag=Hats
+
+button.classyhats.hat_inventory.open_bag=Hat Storage
+button.classyhats.hat_bag.close=Back to Inventory
+button.classyhats.hat_bag.next_page=Next Page
+button.classyhats.hat_bag.prev_page=Prev. Page
+button.classyhats.hat_bag.page=%d/%d
+
+command.classyhats.replacehat.usage=/replacehat <player> <equipped|page> ...
+command.classyhats.replacehat.usage.equipped=/replacehat <player> equipped <hat|none>
+command.classyhats.replacehat.usage.page=/replacehat <player> page <page.n.n> <hat|none>
+command.classyhats.replacehat.usage.invalid.page=Invalid page ID (%s)
+
+keybind.classyhats.hats_inventory=Hat Inventory
+
+# RLCraft-specific
+hat.classyhats.amalgalichhat.name=Amalgalich Skull
+hat.classyhats.amalgalichhat.desc=You can still hear the screams...
+
+hat.classyhats.angrymask.name=Ceremonial Mask
+hat.classyhats.angrymask.desc=Don't tell the museum you have this
+
+hat.classyhats.artsy.name=Artsy Palette
+hat.classyhats.artsy.desc=How about I pay in exposure?
+
+hat.classyhats.bandanablue.name=Blue Bandana
+hat.classyhats.bandanablue.desc=Bandana, but blue
+
+hat.classyhats.bandanared.name=Red Bandana
+hat.classyhats.bandanared.desc=Bandana, but red
+
+hat.classyhats.bandanargb.name=Gamer Bandana
+hat.classyhats.bandanargb.desc=Bandana, but gamer
+
+hat.classyhats.bandanayellow.name=Yellow Bandana
+hat.classyhats.bandanayellow.desc=Bandana, but yellow
+
+hat.classyhats.baseballhatblack.name=Black Baseball Cap
+hat.classyhats.baseballhatblack.desc=No cap
+
+hat.classyhats.baseballhatblue.name=Blue Baseball Cap
+hat.classyhats.baseballhatblue.desc=No cap
+
+hat.classyhats.baseballhatgreen.name=Green Baseball Cap
+hat.classyhats.baseballhatgreen.desc=No cap
+
+hat.classyhats.baseballhatred.name=Red Baseball Cap
+hat.classyhats.baseballhatred.desc=No cap
+
+hat.classyhats.baseballhatrgb.name=Gamer Baseball Cap
+hat.classyhats.baseballhatrgb.desc=No cap
+
+hat.classyhats.baseballhatyellow.name=Yellow Baseball Cap
+hat.classyhats.baseballhatyellow.desc=No cap
+
+hat.classyhats.beanieblue.name=Blue Beanie
+hat.classyhats.beanieblue.desc=Not for storing illicit materials
+
+hat.classyhats.beaniepink.name=Pink Beanie
+hat.classyhats.beaniepink.desc=Not for storing illicit materials
+
+hat.classyhats.beaniered.name=Red Beanie
+hat.classyhats.beaniered.desc=Not for storing illicit materials
+
+hat.classyhats.beaniergb.name=Gamer Beanie
+hat.classyhats.beaniergb.desc=Not for storing illicit materials
+
+hat.classyhats.beaniewhite.name=White Beanie
+hat.classyhats.beaniewhite.desc=Not for storing illicit materials
+
+hat.classyhats.bicorne.name=Pirate Bicorne
+hat.classyhats.bicorne.desc=Little too corny
+
+hat.classyhats.bigbrain.name=Big Brain
+hat.classyhats.bigbrain.desc=Big brain, massive 5head
+
+hat.classyhats.bigstevehead.name=Mascot Head
+hat.classyhats.bigstevehead.desc=What a headache!
+
+hat.classyhats.bluedragonhead.name=Ice Dragon Head
+hat.classyhats.bluedragonhead.desc=Tastes like blue raspberry
+
+hat.classyhats.bluefireeye.name=Non-Infringing Glowing Blue Eye
+hat.classyhats.bluefireeye.desc=You're going to have an unpleasant moment
+
+hat.classyhats.bowler.name=Bowler Hat
+hat.classyhats.bowler.desc=Good for holding soup
+
+hat.classyhats.breadhat.name=The First Meme
+hat.classyhats.breadhat.desc=Bread head funny upvote
+
+hat.classyhats.brownbrick.name=Brick On Head
+hat.classyhats.brownbrick.desc=Ow.
+
+hat.classyhats.caddycap.name=Caddy Cap
+hat.classyhats.caddycap.desc=Golf time!
+
+hat.classyhats.caddycapblack.name=Black Caddy Cap
+hat.classyhats.caddycapblack.desc=Golf time!
+
+hat.classyhats.carrotonstick.name=Carrot On Stick
+hat.classyhats.carrotonstick.desc=Oooh, carrot!
+
+hat.classyhats.cowboy.name=Stetson
+hat.classyhats.cowboy.desc=Yeet Haw
+
+hat.classyhats.cowboyrgb.name=Gamer Stetson
+hat.classyhats.cowboyrgb.desc=Yeet Haw
+
+hat.classyhats.cuphead.name=Cuphead
+hat.classyhats.cuphead.desc=Mmm, brains
+
+hat.classyhats.dangereqsue.name=Shutter Shades
+hat.classyhats.dangereqsue.desc=Dangeresque, three?
+
+hat.classyhats.demonhorns.name=Demonic Horns
+hat.classyhats.demonhorns.desc=Such a nice gift from that talking goat
+
+hat.classyhats.dimmahat.name=Dimma Hat
+hat.classyhats.dimmahat.desc=Don Dimmadug of the Dimmsburg Dimmadugout
+
+hat.classyhats.discoball.name=Disco Ball
+hat.classyhats.discoball.desc=Time to boogie!
+
+hat.classyhats.doctorhat.name=Doctor's Gear
+hat.classyhats.doctorhat.desc=Nice and safe
+
+hat.classyhats.dragonskull.name=Fire Dragon Skull
+hat.classyhats.dragonskull.desc=Can I get uhh... skinless dragon?
+
+hat.classyhats.dragonskullender.name=Ender Dragon Skull
+hat.classyhats.dragonskullender.desc=Enderic Master
+
+hat.classyhats.dumhat.name=Dum
+hat.classyhats.dumhat.desc=Haha, point and laugh!
+
+hat.classyhats.dwarfbeard.name=Dwarven Beard
+hat.classyhats.dwarfbeard.desc=So luxurious
+
+hat.classyhats.dwarfminerbeard.name=Dwarven Miner Beard
+hat.classyhats.dwarfminerbeard.desc=Dig dug dig dug
+
+hat.classyhats.elfhat.name=Lonk Cap
+hat.classyhats.elfhat.desc=Hyah!
+
+hat.classyhats.eyepatch.name=Eye Patch
+hat.classyhats.eyepatch.desc=I warned you about that BB gun!
+
+hat.classyhats.farmerbrim.name=Farmer Brim
+hat.classyhats.farmerbrim.desc=I walk into a farm, to grow wheat
+
+hat.classyhats.finnhood.name=Adventuring Hood
+hat.classyhats.finnhood.desc=Protects you from vampires
+
+hat.classyhats.flowercrown.name=Flower Crown
+hat.classyhats.flowercrown.desc=Aren't you the little free spirit
+
+hat.classyhats.fro.name=Afro
+hat.classyhats.fro.desc=Impressive!
+
+hat.classyhats.fronthorns.name=Front Horns
+hat.classyhats.fronthorns.desc=Party in the front
+
+hat.classyhats.fulldiamondhelm.name=Diamond Helm
+hat.classyhats.fulldiamondhelm.desc=Finally, chin protection
+
+hat.classyhats.fullgoldhelm.name=Golden Helm
+hat.classyhats.fullgoldhelm.desc=Finally, chin protection
+
+hat.classyhats.fullironhelm.name=Iron Helm
+hat.classyhats.fullironhelm.desc=Finally, chin protection
+
+hat.classyhats.grandmadisguise.name=Grandma Disguise
+hat.classyhats.grandmadisguise.desc=I'm gunna pinch your cheeks!
+
+hat.classyhats.greenbirb.name=Lil' Green Birb
+hat.classyhats.greenbirb.desc=Cherish him
+
+hat.classyhats.greenstache.name=Green Stache
+hat.classyhats.greenstache.desc=You suddenly feel taller
+
+hat.classyhats.headphonesblue.name=Night Sky Headphones
+hat.classyhats.headphonesblue.desc=So pretty, so blue
+
+hat.classyhats.headphonesjamaica.name=Rasta Headphones
+hat.classyhats.headphonesjamaica.desc=One love
+
+hat.classyhats.headphonespink.name=Kitty Headphones
+hat.classyhats.headphonespink.desc=Nyaa
+
+hat.classyhats.headphonesred.name=Youtuber Headphones
+hat.classyhats.headphonesred.desc=Who needs legs when you have these sick headphones
+
+hat.classyhats.holyhead.name=Redemption
+hat.classyhats.holyhead.desc=The Binding of Steve
+
+hat.classyhats.horsemask.name=Horse Mask
+hat.classyhats.horsemask.desc=What a classic!
+
+hat.classyhats.icedragonskull.name=Ice Dragon Skull
+hat.classyhats.icedragonskull.desc=Can I get uhh... skinless dragon?
+
+hat.classyhats.jakehat.name=Jake Hat
+hat.classyhats.jakehat.desc=Too bad it doesn't let you stretch
+
+hat.classyhats.largehorns.name=Large Horns
+hat.classyhats.largehorns.desc=Overcompensating?
+
+hat.classyhats.minerhat.name=Miner Hat
+hat.classyhats.minerhat.desc=Protect your noggin
+
+hat.classyhats.nekoears.name=Neko Ears
+hat.classyhats.nekoears.desc=Why are there so many cat ears?
+
+hat.classyhats.paperbag.name=Bag Head
+hat.classyhats.paperbag.desc=Spoopy
+
+hat.classyhats.paypay.name=Paypay
+hat.classyhats.paypay.desc=Reee
+
+hat.classyhats.peepo.name=Peepo
+hat.classyhats.peepo.desc=Big clown
+
+hat.classyhats.plaguedoctor.name=Plague Doctor
+hat.classyhats.plaguedoctor.desc=Here, have a leech
+
+hat.classyhats.pog.name=Pog
+hat.classyhats.pog.desc=Pawgurz
+
+hat.classyhats.poofballgreen.name=Green Poofball
+hat.classyhats.poofballgreen.desc=Screw you guys, I'm going home
+
+hat.classyhats.poofballhatblack.name=Black Poofball
+hat.classyhats.poofballhatblack.desc=Screw you guys, I'm going home
+
+hat.classyhats.poofballhatblue.name=Blue Poofball
+hat.classyhats.poofballhatblue.desc=Screw you guys, I'm going home
+
+hat.classyhats.poofballred.name=Red Poofball
+hat.classyhats.poofballred.desc=Screw you guys, I'm going home
+
+hat.classyhats.poofballrgb.name=Gamer Poofball
+hat.classyhats.poofballrgb.desc=Screw you guys, I'm going home
+
+hat.classyhats.popehat.name=Pope Hat
+hat.classyhats.popehat.desc=So much room for hiding snacks
+
+hat.classyhats.potionhead.name=Potion Head
+hat.classyhats.potionhead.desc=Put 'em in the jar
+
+hat.classyhats.propelhat.name=Propeller Hat
+hat.classyhats.propelhat.desc=Speeeen!
+
+hat.classyhats.questbook.name=Questbook
+hat.classyhats.questbook.desc=Ugh, too much reading
+
+hat.classyhats.rainboworbiters.name=Rainbow Orbiters
+hat.classyhats.rainboworbiters.desc=Like gnats, but atleast they're cool
+
+hat.classyhats.ranahat.name=Rana Hat
+hat.classyhats.ranahat.desc=Rana who?
+
+hat.classyhats.reddragonhead.name=Fire Dragon Head
+hat.classyhats.reddragonhead.desc=Tastes like cherry
+
+hat.classyhats.rednose.name=Reindeer Nose
+hat.classyhats.rednose.desc=Shine the way!
+
+hat.classyhats.redshroomcap.name=Red Shroom Cap
+hat.classyhats.redshroomcap.desc=There is a fungus among us
+
+hat.classyhats.redstache.name=Red Stache
+hat.classyhats.redstache.desc=He's so cool!
+
+hat.classyhats.rock.name=Rock
+hat.classyhats.rock.desc=I tripped... What happened?
+
+hat.classyhats.santahat.name=Santa Hat
+hat.classyhats.santahat.desc=Santa! Santa! Santa!
+
+hat.classyhats.sheep.name=Sheep Disguise
+hat.classyhats.sheep.desc=Baaaa-d idea
+
+hat.classyhats.shroomcap.name=Brown Shroom Cap
+hat.classyhats.shroomcap.desc=There is a fungus among us
+
+hat.classyhats.sombrero.name=Sombrero
+hat.classyhats.sombrero.desc=Provides such nice shade
+
+hat.classyhats.sprout.name=Floro Sprout
+hat.classyhats.sprout.desc=Noooo! I don't want to be a Floro Sapien!
+
+hat.classyhats.stress.name=Stress
+hat.classyhats.stress.desc=Like I need more of this, jeez
+
+hat.classyhats.summerhat.name=Summer Hat
+hat.classyhats.summerhat.desc=Ugh, so much gardening
+
+hat.classyhats.sunglasses.name=Sunglasses
+hat.classyhats.sunglasses.desc=Deal with it!
+
+hat.classyhats.supersandhat.name=Super Sand Hat
+hat.classyhats.supersandhat.desc=It's over 900!
+
+hat.classyhats.swimmer.name=Swimmer Cap
+hat.classyhats.swimmer.desc=So. Much. Swimming.
+
+hat.classyhats.thonk.name=Thonk
+hat.classyhats.thonk.desc=Hrmmm
+
+hat.classyhats.tinkerhat.name=Tinker's Hat
+hat.classyhats.tinkerhat.desc=Construct who?
+
+hat.classyhats.topcathat.name=Top Cat Hat
+hat.classyhats.topcathat.desc=I'll make it look like an accident!
+
+hat.classyhats.tophat.name=Top Hat
+hat.classyhats.tophat.desc=Stylin'!
+
+hat.classyhats.toptophathat.name=Top Top Hat Hat
+hat.classyhats.toptophathat.desc=Hat on Hat on Hat on Hat
+
+hat.classyhats.tricorne.name=Tricorne
+hat.classyhats.tricorne.desc=Way too corny
+
+hat.classyhats.unicornhorn.name=Unicorn Horn
+hat.classyhats.unicornhorn.desc=Discovering (and killing) something that doesn't exist!
+
+hat.classyhats.vikinghat.name=Viking Hat
+hat.classyhats.vikinghat.desc=Happy Leif Erikson day!
+
+hat.classyhats.vikinghatbeard.name=Bearded Viking Hat
+hat.classyhats.vikinghatbeard.desc=Happy Leif Erikson day!
+
+hat.classyhats.villagernose.name=Villager Nose
+hat.classyhats.villagernose.desc=Hrmmm hnn hmmmm hunghhh
+
+hat.classyhats.zigzagwitchhat.name=Witch Hat
+hat.classyhats.zigzagwitchhat.desc=It's always witch season!
+
+hat.classyhats.acornhat.name=Acorn Hat
+hat.classyhats.acornhat.desc=I saw a squirrel...he was goin' like dis!
+
+hat.classyhats.beehat.name=Bee Hat
+hat.classyhats.beehat.desc=Get stung son!
+
+hat.classyhats.bigeyes.name=Big Eyes
+hat.classyhats.bigeyes.desc=I've seen things...
+
+hat.classyhats.burgerhat.name=Borgor Hat
+hat.classyhats.burgerhat.desc=Omnomnom!
+
+hat.classyhats.chefshat.name=Chefs Hat
+hat.classyhats.chefshat.desc=IT'S FAWKING RAAAWWWW!!
+
+hat.classyhats.cyclopseye.name=Cyclops Hat
+hat.classyhats.cyclopseye.desc=I got my eye on you
+
+hat.classyhats.fakeblight.name=Fake Blight
+hat.classyhats.fakeblight.desc=Edgy
+
+hat.classyhats.fakefire.name=Fake Fire
+hat.classyhats.fakefire.desc=Friendly fire on
+
+hat.classyhats.flies.name=Flies
+hat.classyhats.flies.desc=DA FLIIEESSS!
+
+hat.classyhats.floatinghearts.name=Floating Hearts
+hat.classyhats.floatinghearts.desc=Will you be my Valentine
+
+hat.classyhats.headshot.name=Headshot
+hat.classyhats.headshot.desc=Killing Spree!
+
+hat.classyhats.jesterhat.name=Jester Hat
+hat.classyhats.jesterhat.desc=By Ysmir, it's true! A Jester!
+
+hat.classyhats.mohawk.name=Mohawk
+hat.classyhats.mohawk.desc=Night Elf Mohawk!
+
+hat.classyhats.rabbitears.name=Rabbit Ears
+hat.classyhats.rabbitears.desc=Hippity Hoppity
+
+hat.classyhats.redeyes.name=Red Eyes
+hat.classyhats.redeyes.desc=Too much Shroud coffee
+
+hat.classyhats.rubbernipple.name=Rubber...seriously?
+hat.classyhats.rubbernipple.desc=Why does this exist -_-
+
+hat.classyhats.triangleshades.name=Triangle Shades
+hat.classyhats.triangleshades.desc=Totally Tubular!

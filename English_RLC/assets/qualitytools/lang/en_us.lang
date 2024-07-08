@@ -1,0 +1,134 @@
+itemGroup.qualitytools=Quality Tools
+
+item.emerald_amulet.name=Emerald Amulet
+item.emerald_ring.name=Emerald Ring
+
+item.reforging_station.name=Reforging Station
+tile.reforging_station.name=Reforging Station
+container.reforging_station=Reforging Station
+
+info.quality.name=Quality: 
+
+#Trinkets		 
+quality.aiming.name=Aiming
+#Trinkets, Helmet, Chestplate, Leggings, Boots, Shield, Horse															 
+quality.arcane.name=Arcane
+#Trinkets		 
+quality.armored.name=Armored
+#Trinkets
+quality.athletic.name=Athletic
+#Tools
+quality.broad.name=Broad
+#Tools
+quality.broken.name=Broken
+#Tools
+quality.bulky.name=Bulky
+#Tools
+quality.chipped.name=Chipped
+#Tools, Bow
+quality.clumsy.name=Clumsy
+#Trinkets
+quality.clunky.name=Clunky
+#Bow
+quality.cracked.name=Cracked
+#Helmet, Chestplate, Leggings, Boots, Horse
+quality.crumbling.name=Crumbling
+#Chestplate
+quality.cumbersome.name=Cumbersome
+#Helmet, Chestplate, Leggings, Boots, Horse
+quality.dented.name=Dented
+#Magic
+quality.enhancing.name=Enhancing
+#Trinkets
+quality.flailing.name=Flailing
+#Trinkets
+quality.focusing.name=Focusing
+#Trinkets, Tools
+quality.graceful.name=Graceful
+#Trinkets
+quality.healthy.name=Healthy
+#Helmet, Chestplate, Leggings, Boots, Shield, Horse
+quality.heavy.name=Heavy
+#Trinkets
+quality.horrible.name=Horrible
+quality.hulking.name=Hulking
+#Magic
+quality.ineffective.name=Ineffective
+#Magic
+quality.inept.name=Inept
+#Tools
+quality.keen.name=Keen
+#Tools, Bow
+quality.legendary.name=Legendary
+#Trinkets, Helmet, Fishing
+quality.lucky.name=Lucky
+#Bow
+quality.light.name=Light
+#Tools
+quality.long.name=Long
+#Helmet, Chestplate, Leggings, Boots, Horse
+quality.masterful.name=Masterful
+#Magic
+quality.mystical.name=Mystical
+#Tools
+quality.pokey.name=Pokey
+#Bow
+quality.powerful.name=Powerful
+#Trinkets
+quality.prospecting.name=Prospecting
+#Helmet, Chestplate, Leggings, Boots, Horse
+quality.protective.name=Protective
+#Trinkets
+quality.punishing.name=Punishing
+quality.quick.name=Quick
+#Tools
+quality.rusted.name=Rusted
+#Tools
+quality.sharp.name=Sharp
+#Trinkets
+quality.shielding.name=Shielding
+#Tools
+quality.short.name=Short
+#Trinkets, Boots, Horse
+quality.speedy.name=Speedy
+#Chestplate,
+quality.solid.name=Solid
+#Trinkets, Leggings,
+quality.springy.name=Springy
+#Trinkets
+quality.strengthening.name=Strengthening
+#Tools
+quality.sweeping.name=Sweeping
+#Boots
+quality.tall.name=Tall
+#Helmet, Chestplate, Leggings, Boots, Shield, Horse
+quality.thick.name=Thick
+#Tools
+quality.thin.name=Thin
+#Helmet, Chestplate, Leggings, Boots
+quality.tough.name=Tough
+#Trinkets
+quality.undying.name=Undying
+#Trinkets, Fishing
+quality.unlucky.name=Unlucky
+#Tools
+quality.vicious.name=Vicious
+#Tools
+quality.worthless.name=Worthless
+
+item.modifiers.baubles_amulet=When in baubles amulet slot:
+item.modifiers.baubles_ring=When in baubles ring slot:
+item.modifiers.baubles_belt=When in baubles belt slot:
+item.modifiers.baubles_head=When in baubles head slot:
+item.modifiers.baubles_body=When in baubles body slot:
+item.modifiers.baubles_charm=When in baubles charm slot:
+item.modifiers.baubles_trinket=When in any baubles slot:
+item.modifiers.inventory=When in inventory:
+item.modifiers.horse=When worn by a horse:
+
+commands.qualitytoolsreload.usage=/qualitytoolsreload
+commands.qualitytoolsreload.success=Reloaded quality tools configs
+commands.qualitytoolsreload.problems=Encountered problems while reloading tools configs
+
+message.qualitytoolsreload.problems=Quality Tools encountered %s problem(s) while loading configs:
+message.qualitytoolsreload.problems.saved=The problems have been saved to config/Quality Tools/problems.txt.
