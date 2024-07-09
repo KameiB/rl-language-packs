@@ -9,7 +9,7 @@ When you finished translating:
 - Rename the "English_RLC" folder to match your language
 - ZIP it
 - Publish it to [CurseForge](https://www.curseforge.com/), so RLCraft players can easily find it and download it.
-- You can take my [Spanish Resource pack](https://www.curseforge.com/minecraft/texture-packs/espanol-para-rlcraft) as an example.
+- You can take my [Spanish Resource pack](https://www.curseforge.com/minecraft/texture-packs/espanol-para-rlcraft) as an example on how your page would look like.
 
 ### If you already have a one-size-fits-all translation Resource pack:
 - RLCraft overrides many of the mod's original texts, so they fit better into the pack
