@@ -1,13 +1,22 @@
 # RL-Language packs
-A template Resourcepack for RLCraft translators.  
+A template Resource pack (English_RLC folder) for RLCraft translators.  
 This template contains lang files and lang keys (English) for all texts displayed in RLCraft 2.10 and above.  
 
-### If you already have a one-size-fits-all translation Resourcepack:
-- RLCraft overrides many of the mod's original texts, so they fit better into the pack
-- RLCraft also create some new lang keys using scripts
-- Localizator creates a ton of new lang keys for previously hardcoded texts
+Clone this repository, translate and customize the pack.meta and pack.png files.  
 
-Therefore, I suggest checking all the lang files included here, so players get the best experience possible.
+Check the [Language Wiki](https://minecraft.fandom.com/wiki/Language) to find your language code.  
+When you finished translating:  
+- Rename the "English_RLC" folder to match your language
+- ZIP it
+- Publish it to [CurseForge](https://www.curseforge.com/), so RLCraft players can easily find it and download it.
+- You can take my [Spanish Resource pack](https://www.curseforge.com/minecraft/texture-packs/espanol-para-rlcraft) as an example.
+
+### If you already have a one-size-fits-all translation Resource pack:
+- RLCraft overrides many of the mod's original texts, so they fit better into the pack
+- RLCraft also creates some new lang keys using scripts
+- [Localizator](https://www.curseforge.com/minecraft/mc-mods/localizator) creates a ton of new lang keys for previously hardcoded texts
+
+Therefore, I suggest opening each lang file and execute a Contents Compare against your files, so players get the best experience possible.
 
 ### If you want to go above and beyond:
 The "Sources" folder may be of help!  
