@@ -4,7 +4,7 @@ This template contains lang files and lang keys (English) for all texts displaye
 
 Clone this repository, translate and customize the pack.meta and pack.png files.  
 
-Check the [Language Wiki](https://minecraft.fandom.com/wiki/Language) to find your language code.  
+Check the [Language Wiki](https://minecraft.fandom.com/wiki/Language) to find your language code (don't forget to rename the en_us.lang file to your language code!).  
 When you finished translating:  
 - Rename the "English_RLC" folder to match your language
 - ZIP it
