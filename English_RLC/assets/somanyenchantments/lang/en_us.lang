@@ -7,7 +7,7 @@ enchantment.AtomicDeconstructor=Atomic Deconstructor
 enchantment.somanyenchantments.atomicdeconstructor.desc=Your attacks have a very low chance to rip apart the atoms in the physical structure of a creature, completely voiding the enemy from this visible dimension. Scientifically, this is known as Yeetus Deletus.
 
 enchantment.Defusion=Defusing Edge
-enchantment.somanyenchantments.defusion.sec=Deals extra damage to creepers and has a chance 
+enchantment.somanyenchantments.defusion.sec=Deals extra damage to creepers and has a chance to defuse them.
 
 enchantment.Inefficent=§cInefficient
 enchantment.somanyenchantments.inefficent.desc=Reduces mining speed.
@@ -394,7 +394,7 @@ enchantment.Pulling=Dragging
 enchantment.somanyenchantments.pulling.desc=Turnabout "Reverse Hierarchy" version of Punch. In layman's term, the opposite of punch.
 
 enchantment.Pushing=Pushing
-enchantment.somanyenchantments.pushing.desc=Blesses the bow with an ability to repel nearby entities while charging. 
+enchantment.somanyenchantments.pushing.desc=Blesses the bow with an ability to repel nearby entities while charging.
 
 enchantment.Unsheathing=Unsheathing
 enchantment.somanyenchantments.unsheathing.desc=When taking damage (there must be an attacker), the sword will automatically switch place with whatever the user is currently holding. Does not work if the sword is not in the main hotbar.
