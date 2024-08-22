@@ -214,7 +214,7 @@ tipped_arrow.effect.dispel=Arrow of Dispel
 
 # RLCraft-specific
 enchantment.mujmajnkraftsbettersurvival.education.desc=Greatly increases the amount of experience you get from killing enemies. Does not work with bosses.
-enchantment.mujmajnkraftsbettersurvival.combo.desc=Increases the rate of damage increase while continously attacking.  Does not exceed bonus damage cap.
+enchantment.mujmajnkraftsbettersurvival.combo.desc=Increases the rate of damage increase while continuously attacking.  Does not exceed bonus damage cap.
 
 # From Localizator
 mujmajnkraftsbettersurvival.imbuedweapon.hitsRemaining=hits remaining
